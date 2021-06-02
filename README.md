@@ -4,4 +4,4 @@ Check out https://netflixx-clone-ce6de.web.app/
 
 REQUEST.JS
 
-import your own key for netflix clone data
+import your own key for netflix clone data from https://api.themoviedb.org
